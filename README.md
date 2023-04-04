@@ -25,3 +25,7 @@ https://valheim.thunderstore.io/package/southsil/SouthsilArmor/
 https://valheim.thunderstore.io/package/SpikeHimself/XPortal/
 
 https://valheim.thunderstore.io/package/Therzie/Warfare/
+
+
+
+Using BepIN EX 5.4.2100
